@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Sep 10 12:58:36 UTC 2018
+ro.bootimage.build.date.utc=1536584316
+ro.bootimage.build.fingerprint=Sony/aosp_h4213/discovery:8.1.0/OPM2.171026.006.G1/frajo09101258:user/dev-keys
+persist.sys.usb.config=none
