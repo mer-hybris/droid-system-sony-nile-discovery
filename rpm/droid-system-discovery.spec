@@ -1,4 +1,4 @@
-%define device discovery
+%define multiple_rpms 1
 %define rpm_device discovery
 
 %define dsd_path ./
